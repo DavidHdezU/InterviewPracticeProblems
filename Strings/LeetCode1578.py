@@ -88,10 +88,10 @@ def minCost2(s, cost):
             left = i    
     return curr_min
 
-s = ""
+s = []
 for i in range(1000000):
-    s += random.choice(string.ascii_lowercase)
-        
+    s.append(random.choice(string.ascii_lowercase))
+s = ''.join(s)
 cost = np.random.randint(low=1,high=10, size=1000000)
 
 
