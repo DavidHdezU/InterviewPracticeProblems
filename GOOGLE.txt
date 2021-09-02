@@ -1,0 +1,12 @@
+- 12-24 week program
+
+- Three main areas
+    - Product dev
+    - Engenieering Productivity
+
+
+- Communication
+- DS and Algo skills
+- Testing (edge cases)
+
+- Understand the problem
